@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dylan Feinberg
+- 👀 I’m interested in crypto, especially defi.
+- 🌱 I’m currently learning Python, Javascript, and REACH
+- 💞️ I’m looking to collaborate on any project on Algorand
+- 📫 How to reach me: dylan.feinberg@gmail.com
